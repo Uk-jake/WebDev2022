@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class Solution {
     public int[] solution(int[] answers) {
         int user[][] = {
@@ -8,7 +7,7 @@ public class Solution {
                 {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}
         };
 
-        int[] counts = {0, 0, 0};
+        int[] counts = new int[3];
 
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < answers.length; j++) {
@@ -22,9 +21,9 @@ public class Solution {
 
         ArrayList<Integer> answer = new ArrayList<>();
 
-        for(int i = 0; i<3;i++){
+        for(int i = 0; i<counts.length;i++){
             if(maxScore == counts[i])
-                answer.add(1);
+                answer.add(i+1);
         }
 
         int[] result = new int[answer.size()];

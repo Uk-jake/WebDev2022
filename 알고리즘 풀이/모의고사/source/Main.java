@@ -7,11 +7,6 @@ public class Main {
 
         int[] inputAnswers = {1, 3, 2, 4, 2};
 
-        //{1, 3, 2, 4, 2}
-
         System.out.println(sol.solution(inputAnswers)[2]);
-
-
-
     }
 }
