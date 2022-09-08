@@ -67,3 +67,5 @@ System.out.println(list.indexOf(1)); //1이 있는 index반환 없으면 -1
 * ArrayList에서 찾고자 하는 값을 검색하려면 ArrayList의 contains(value) 메소드를 사용하면 된다.
 * contains()함수를 사용 할 시 값이 있으면 true값이 반환되고 값이 없으면 false가 리턴된다.
 * 값을 있는 index를 찾으ㄹ면  indexOf(value) 메소드를 사용하면 되고 값이 없다면 -1을 리턴한다.
+
+(참고자료)[https://coding-factory.tistory.com/551]
