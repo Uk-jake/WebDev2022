@@ -6,7 +6,6 @@ public class Solution {
 
         int[] arrivals = new int[N + 1];
         double[] clears = new double[N + 1];
-
         int[] answer = new int[N];
 
         for (int i = 0; i < stages.length; i++) {
@@ -25,14 +24,30 @@ public class Solution {
         ArrayList<Double> fail = new ArrayList<Double>();
 
         for (int i = 0; i < N; i++) {
-            double tmp = (arrivals[i] - clears[i]) / clears[i];
+
+            double tmp;
+
+            if(arrivals[i] == 0)
+                tmp = 0;
+            else
+                tmp = (arrivals[i] - clears[i]) / arrivals[i];
+
             clears[i] = tmp;
             fail.add(tmp);
         }
+
         Collections.sort(fail, Collections.reverseOrder());
 
-        for (int i = 0 ; i< clears.length ; i++){
-            System.out.println(clears[i]);
+        for(int i = 0 ; i < N; i++){
+            Double tmp = fail.get(i);
+
+            for(int j = 0; j < N; j++){
+                if(tmp == clears[j]){
+                    answer[i] = j + 1;
+                    clears[j] = -1;
+                    break;
+                }
+            }
         }
         return answer;
     }
