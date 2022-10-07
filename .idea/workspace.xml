@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="add springboot Project">
-      <change afterPath="$PROJECT_DIR$/asset/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebDev2022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="add springboot Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +46,11 @@
     &quot;spring.configuration.checksum&quot;: &quot;3b69b34f4d2511af670f8c117111cb1b&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mag02\git_repo\WebDev2022\asset" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SpringBootProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-project" />
@@ -80,7 +74,7 @@
       <workItem from="1664519422820" duration="42000" />
       <workItem from="1664520108714" duration="814000" />
       <workItem from="1665066370959" duration="3000" />
-      <workItem from="1665123956558" duration="305000" />
+      <workItem from="1665123956558" duration="540000" />
     </task>
     <task id="LOCAL-00001" summary="add springboot Project">
       <created>1663917785772</created>
