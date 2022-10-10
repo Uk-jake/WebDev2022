@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="add springboot Project" />
+    <list default="true" id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="add springboot Project">
+      <change afterPath="$PROJECT_DIR$/네트워크/WebSocket이란.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +55,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WebDev2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WebDev2022" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-project" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootproject.SpringBootProjectApplication" />
@@ -75,6 +91,7 @@
       <workItem from="1664520108714" duration="814000" />
       <workItem from="1665066370959" duration="3000" />
       <workItem from="1665123956558" duration="540000" />
+      <workItem from="1665398379025" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="add springboot Project">
       <created>1663917785772</created>
