@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e6f54cc-9f14-4143-ac2d-16b65a8f3daf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/알고리즘 풀이/로또의 최고 순위와 최저 순위.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 풀이/키패드누르기.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 풀이/키패드누르기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 풀이/폰켓몬.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 풀이/폰켓몬.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +31,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/JangUk/git_repo/WebDev2022/알고리즘 풀이",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JangUk\git_repo\WebDev2022\알고리즘 풀이" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="최소직사각형" />
@@ -56,6 +69,9 @@
       <updated>1665489594668</updated>
       <workItem from="1665489601925" duration="61000" />
       <workItem from="1665577871548" duration="201000" />
+      <workItem from="1665645858337" duration="74000" />
+      <workItem from="1665651781821" duration="46000" />
+      <workItem from="1665651834972" duration="1017000" />
     </task>
     <servers />
   </component>
