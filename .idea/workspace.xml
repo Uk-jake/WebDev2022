@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="add springboot Project" />
+    <list default="true" id="8e6f54cc-9f14-4143-ac2d-16b65a8f3daf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/알고리즘 풀이/로또의 최고 순위와 최저 순위.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 풀이/키패드누르기.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 풀이/키패드누르기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 풀이/폰켓몬.md" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 풀이/폰켓몬.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings">
-    <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,35 +21,39 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2F9vCu4DBhE12M9P4F4LQlaNQZd" />
+  <component name="ProjectId" id="2FzKgiOPED94FhnN5F1ocJnvuP1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mag02/git_repo/WebDev2022&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;3b69b34f4d2511af670f8c117111cb1b&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/JangUk/git_repo/WebDev2022/알고리즘 풀이",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mag02\git_repo\WebDev2022\asset" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JangUk\git_repo\WebDev2022\알고리즘 풀이" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SpringBootProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-project" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootproject.SpringBootProjectApplication" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="최소직사각형" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="최소직사각형" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,27 +62,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f70bf03a-e486-4755-adde-d9e33c144821" name="Changes" comment="" />
-      <created>1663916989673</created>
+      <changelist id="8e6f54cc-9f14-4143-ac2d-16b65a8f3daf" name="Changes" comment="" />
+      <created>1665489594668</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663916989673</updated>
-      <workItem from="1663916992811" duration="3344000" />
-      <workItem from="1664280131675" duration="31000" />
-      <workItem from="1664519319274" duration="85000" />
-      <workItem from="1664519422820" duration="42000" />
-      <workItem from="1664520108714" duration="814000" />
-      <workItem from="1665066370959" duration="3000" />
-      <workItem from="1665123956558" duration="540000" />
+      <updated>1665489594668</updated>
+      <workItem from="1665489601925" duration="61000" />
+      <workItem from="1665577871548" duration="201000" />
+      <workItem from="1665645858337" duration="74000" />
+      <workItem from="1665651781821" duration="46000" />
+      <workItem from="1665651834972" duration="1017000" />
     </task>
-    <task id="LOCAL-00001" summary="add springboot Project">
-      <created>1663917785772</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1663917785773</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,31 +83,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="issue-4" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add springboot Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add springboot Project" />
   </component>
 </project>
