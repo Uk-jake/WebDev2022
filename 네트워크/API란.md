@@ -40,4 +40,4 @@ HTTP를 사용하여 프로그램끼리 소통하는 API를 말한다.
 
 REST API(REpresentational State Transfer)는 웹상에서 사용되는 여러 리소스를 HTTP URI로 표현하고, 해당 리소스에 대한 행위를 HTTP Method로 정의하는 방식을 말한다.  
 즉, 리소스(HTTP URI로 정의됨)를 어떻게 하겠다(HTTP Method + Payload)를 구조적으로 깔끔하게 표현하는 방법이다.
-<br><br>
+<br><br><br>
