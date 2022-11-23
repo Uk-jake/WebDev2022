@@ -2,9 +2,9 @@
 
 ## 서버 - 클라이언트
 
-1. 페이지에서 요청(request)가 날라오면, 장고는 HttpRequest객체를 생성한다.
-2. 장고는 url.py에서 정의한 View클래스 or  함수에 첫번째 인자로 해당 객체(request)를 전달한다.
-3. 해당 View는 결과값(return)을 HttpResponse or JsonResponse 객체에 담아서 전달한다.
+1. 페이지에서 요청(request)가 날라오면, 장고는 HttpRequest객체를 생성합니다.
+2. Django는 url.py에서 정의한 View클래스 또는 함수에 첫번째 인자로 해당 객체(request)를 전달합니다.
+3. 해당 View는 결과값(return)을 HttpResponse or JsonResponse 객체에 담아서 전달합니다.
 
 ### HttpRequest
 
@@ -20,8 +20,7 @@
 
 ### HttpResponse
 
-- 다양한 응답을 Wrapping : HTML 문자열, 이미지 등 # 주로 html을 반환
-- View에서는 반환값으로서 HttpResponse 객체를 기대 Middleware에서 HttpResponse객체를 기대
-- 하나의 함수는 최소 하나의 HttpResponse를 반환해야한다.
+- 다양한 응답을 Wrapping : HTML 문자열, 이미지 등 # 주로 html을 반환합니다.
+- 하나의 함수는 최소 하나의 HttpResponse를 반환해야합니다.
 
 참고자료([HttpRequest, HttpResponse, JsonResponse (tistory.com)](https://devdongbaek.tistory.com/82))
