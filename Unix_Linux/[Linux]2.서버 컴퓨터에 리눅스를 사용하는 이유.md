@@ -11,3 +11,5 @@
 ## 유연성
 오픈 소스이기 때문에 원한다면 관리자가 운영 체제를 직접 수정하고 최적화할 수도 있습니다.  
 시스템 시작, 서비스 관리, 사용자 추가, 네트워킹 및 디스크 관리, 소프트웨어 설치, 성능 모니터링, 서버 관리 등을 위해 필요한 수많은 유틸리티를 제공합니다.
+
+![.](https://i0.wp.com/mulcas.com/mulcas_uploads/2022/07/Connect-to-Ubuntu-server-as-a-root-using-WinSCP.png)
