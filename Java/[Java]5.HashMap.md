@@ -1,6 +1,6 @@
 # **자바 HashMap**
 
-## HashSet이란?
+## HashMap이란?
 * HashMap은 Map 인터페이스를 구현한 대표적인 Map컬렉션입니다.
 * Map 인터페이스를 상속하고 있기에 Map의 성질을 그대로 가지고 있습니다.
 * Map은 Key와 Value값으로 구성되어 있습니다.
